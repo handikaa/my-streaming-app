@@ -1,17 +1,34 @@
-# my_streaming
+# Flutter Movie App 🎬
 
-A new Flutter project.
+Aplikasi Movie sederhana menggunakan Flutter + GetX yang menampilkan daftar film, Series TV, detail, dan fitur favorit/watchlist.
 
-## Getting Started
+## 📦 Features
 
-This project is a starting point for a Flutter application.
+- Menampilkan daftar film dan Tv series dari API TMDB
+- Detail movie/TV series
+- Tambahkan ke Watchlist
+- Search film & TV series
+- UI/UX modern
+- Splashscreen & Loading Indicator
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Instalasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# my-streaming-app
+1. **Clone repository**
+
+```bash
+git clone https://github.com/handikaa/my-streaming-app
+masuk ke folder project
+
+2. install depedency
+jalankan flutter pub get di terminal
+
+3. jalankan di emulator atau device
+flutter run
+
+4. install langsung aplikasi apk yang sudah di build di link Google Drive berikut
+"https://drive.google.com/drive/folders/12TguLYUL_jLtzIMNF_J4h3ReAtuMMsK3?usp=sharing"
+
+
+```
